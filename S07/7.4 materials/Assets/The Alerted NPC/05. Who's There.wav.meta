@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 4b49a6a08cdaf4e458af06d78db34d0e
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301220
+  packageName: The Alerted NPC (Male) - Voice Pack
+  packageVersion: 1.0
+  assetPath: Assets/The Alerted NPC/05. Who's There.wav
+  uploadId: 704689

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc45d25784d134031be721e31c3c239f
+timeCreated: 1474656105
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71680
+  packageName: Low Poly Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Weapons/Prefabs/Grenade_Smoke.prefab
+  uploadId: 138541

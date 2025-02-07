@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dcf2586f5b209a045af9dff869aa39f4
+timeCreated: 1528773206
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120676
+  packageName: Simple Heart Health System
+  packageVersion: 1.0
+  assetPath: Assets/HealthHeartSystem/Scripts/HealthBarHUDTester.cs
+  uploadId: 286486

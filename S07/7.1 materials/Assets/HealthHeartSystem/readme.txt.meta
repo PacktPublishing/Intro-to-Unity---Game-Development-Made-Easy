@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 780e5d2cf97f26e4596b2505309867ff
+timeCreated: 1528808420
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120676
+  packageName: Simple Heart Health System
+  packageVersion: 1.0
+  assetPath: Assets/HealthHeartSystem/readme.txt
+  uploadId: 286486

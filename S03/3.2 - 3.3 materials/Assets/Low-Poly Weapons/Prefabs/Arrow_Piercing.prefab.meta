@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84ad69e92e6fe401c8848494bcedac7d
+labels:
+- Weapon
+- Arrow
+timeCreated: 1460068256
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71680
+  packageName: Low Poly Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Weapons/Prefabs/Arrow_Piercing.prefab
+  uploadId: 138541

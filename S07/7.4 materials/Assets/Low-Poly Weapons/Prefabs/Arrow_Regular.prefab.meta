@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 802986766a97b4a108b97eb5fdf6e02f
+labels:
+- Weapon
+- Arrow
+timeCreated: 1460068261
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71680
+  packageName: Low Poly Weapons
+  packageVersion: 1.0
+  assetPath: Assets/Low-Poly Weapons/Prefabs/Arrow_Regular.prefab
+  uploadId: 138541

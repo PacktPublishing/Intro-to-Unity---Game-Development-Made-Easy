@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 570236733aaa67440a517be7123be550, type: 3}
+  m_Name: EnemyDialogue_SO
+  m_EditorClassIdentifier: 
+  _replicas:
+  - Woof! No one gets past me without proving they're strong!
+  - My master trusted me to protect this door.
+  - I've been a good guard dog for a thousand years.
+  - I've been a good guard dog for a thousand years.
+  - If you want to pass, you'll have to beat me in battle!
+  _replicaSoudns:
+  - {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
+  - {fileID: 8300000, guid: aa48101fd9bd24b82af88afb182a9bf5, type: 3}
+  - {fileID: 8300000, guid: ed042c87951ed40268592d7ca7a2de59, type: 3}
+  - {fileID: 8300000, guid: 2bfc5ac48dbe346c79df1e48f3c27835, type: 3}

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8f5f090c5716349de934d81676dc2313
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301220
+  packageName: The Alerted NPC (Male) - Voice Pack
+  packageVersion: 1.0
+  assetPath: Assets/The Alerted NPC/23. You're Not Leaving Here Alive.wav
+  uploadId: 704689
